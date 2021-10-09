@@ -2,6 +2,9 @@ using System;
 
 namespace FigNumAPI
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
